@@ -1,0 +1,13 @@
+# InlineResponse20010
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**indicatorCode** | **string** |  | [optional] 
+**indicatorLabel** | **string** |  | [optional] 
+**rgrpCode** | **string** |  | [optional] 
+**rgrpLabel** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
